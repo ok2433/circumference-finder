@@ -1,7 +1,9 @@
 #entry{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    text-align: center;
+     width: 100%;
+    text-align: center;   /* Centers all inline content */
+    margin-top: 40px;     /* Optional: pushes content down a little */
+}
+
+h1{
+    margin-bottom: 20px;
 }
